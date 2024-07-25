@@ -16,12 +16,13 @@ In this project, I have developed a UART driver library for the STM32F4 series m
 
 ## DMA Transmission Block Diagram
 
+![DMA_usart_BLOCK_DIA](https://github.com/user-attachments/assets/ffa3ac03-186a-4780-8a7a-0ec4bada3fb7)
 
-![usart-dma](https://github.com/user-attachments/assets/6ad0668d-5ea2-420f-9216-bc4794375229)
 
 ## DMA Reception Block Diagram
 
 
+![USART_TO_DMA](https://github.com/user-attachments/assets/6af6badb-f267-4f27-bb56-6c79678382bf)
 
 
 
